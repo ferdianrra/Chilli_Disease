@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Deteksi Cabai</string>
+    <string name="title_desc">Get ahead of plant diseases \nand nutrient deficiencies!</string>
+    <string name="title">CHILLIVISION</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nulla augue, pulvinar eget tristique nec, mollis ac metus. Cras nisl sem, convallis quis sapien sed, euismod facilisis lorem. Curabitur enim dolor, rhoncus eget ultricies ut, molestie ut leo. Maecenas ultricies ex sed nunc pellentesque bibendum. Aliquam porta porttitor nisl quis suscipit. Integer nec orci leo. Phasellus sit amet feugiat nisi. Nam fermentum nisi condimentum mauris venenatis dapibus. Donec non libero dignissim, vehicula velit vitae, mattis nunc.</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="failure">Image Classifier Tidak berhasil diinisialisasi.</string>
+
+    <string-array name="chilli_disease">
+        <item>Bercak Daun</item>
+        <item>Daun Sehat</item>
+        <item>Virus Kuning</item>
+    </string-array>
+
+    <string-array name="disease_desc">
+        <item>Bercak daun pada tanaman cabai adalah salah satu penyakit yang sering menyerang dan dapat menyebabkan kerusakan serius pada tanaman jika tidak ditangani dengan baik. Penyakit ini disebabkan oleh berbagai patogen, termasuk bakteri, jamur, dan virus.</item>
+        <item>Daun cabai sehat berwarna hijau tua yang merata, tanpa bercak atau perubahan warna. Permukaannya halus, segar, dan tidak mengkerut atau menggulung. Daun terasa elastis, tidak kaku atau rapuh, serta tidak menunjukkan tanda-tanda kerusakan fisik seperti robekan atau lubang. Tulang daun terlihat jelas dan berfungsi baik, menandakan transportasi nutrisi yang optimal. Tidak ada tanda-tanda serangan hama atau penyakit, menunjukkan bahwa tanaman tumbuh dengan baik dan mendapatkan perawatan yang memadai.</item>
+        <item>Virus Kuning pada cabai, disebabkan oleh berbagai virus, terutama begomovirus yang disebarkan oleh kutu kebul (Bemisia tabaci). Gejala utama penyakit ini meliputi daun muda yang menguning, menggulung, dan mengeriting. Pertumbuhan tanaman terhambat, daun mengecil, dan produksi buah berkurang secara signifikan. Tanaman yang terinfeksi berat dapat mengalami kerdil dan mati.</item>
+    </string-array>
+    <string-array name="disease_prevention">
+        <item>Beberapa langkah penting yang dapat diambil. Pertama, gunakan benih cabai yang bebas penyakit dan pilih varietas yang tahan terhadap bercak daun untuk mengurangi risiko infeksi. Terapkan rotasi tanaman dengan menanam tanaman yang tidak rentan terhadap patogen bercak daun untuk mencegah akumulasi patogen di tanah. Jaga kebersihan lahan dan alat pertanian dengan membersihkannya secara teratur untuk mencegah penyebaran patogen. Pastikan jarak tanam yang cukup antara tanaman untuk memastikan sirkulasi udara yang baik, dan hindari penyiraman daun dengan melakukan penyiraman di pangkal tanaman guna mengurangi kelembapan yang mendukung pertumbuhan patogen.</item>
+        <item>Untuk menjaga daun cabai tetap sehat, mulailah dengan menggunakan benih berkualitas yang bebas penyakit. Lakukan penyiraman di pangkal tanaman dan hindari menyiram daun untuk mengurangi kelembapan berlebih. Berikan pupuk secara seimbang sesuai kebutuhan tanaman dan monitor hama serta penyakit secara rutin, mengambil tindakan pengendalian jika diperlukan. Pastikan jarak tanam yang cukup untuk memastikan sirkulasi udara yang baik, dan jaga kebersihan lahan serta alat pertanian untuk mencegah penyebaran patogen. Terapkan rotasi tanaman guna menghindari akumulasi patogen di tanah. Dengan langkah-langkah ini, daun cabai akan tetap sehat dan tanaman dapat tumbuh optimal.</item>
+        <item>Untuk mencegah Virus Kuning pada cabai, mulailah dengan menggunakan benih bebas virus dan varietas yang tahan penyakit. Lakukan kontrol vektor kutu kebul secara rutin dengan menggunakan insektisida yang sesuai atau metode mekanis seperti pemasangan jaring pelindung. Jaga kebersihan lahan dan alat pertanian untuk mencegah penyebaran virus. Terapkan rotasi tanaman dengan menanam tanaman non-inang untuk mengurangi populasi kutu kebul. Hindari menanam cabai dekat tanaman yang rentan terhadap virus ini. Selain itu, tanam cabai dengan jarak yang cukup untuk memastikan sirkulasi udara yang baik dan mengurangi kelembapan yang disukai kutu kebul. Dengan langkah-langkah ini, risiko infeksi Virus Kuning dapat diminimalkan, menjaga kesehatan dan produktivitas tanaman cabai.</item>
+
+    </string-array>
+</resources>
+

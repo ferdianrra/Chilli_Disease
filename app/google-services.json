@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52584130648",
+    "project_id": "fir-chilli-disease-pi",
+    "storage_bucket": "fir-chilli-disease-pi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52584130648:android:d0334b43b1bb31908f022d",
+        "android_client_info": {
+          "package_name": "com.dicoding.deteksicabai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-m3Z9H-KAm9L5Sdr7LabYkL_lGUL1qjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
